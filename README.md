@@ -1,3 +1,3 @@
 # Hello World
 
-Practice repository for "Hello World" files
+Repository for "Hello World" files for use to practice version control
